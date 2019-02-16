@@ -1,0 +1,9 @@
+body{
+background: #666;
+}
+
+h1{
+  font-size:100px;
+  font-family: san-serif;
+  text-align:center;
+  text-shadow: 0 1px 0 white;

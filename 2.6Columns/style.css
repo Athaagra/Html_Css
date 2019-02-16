@@ -1,0 +1,19 @@
+body{
+  width:550px;
+  margin: 100px auto;
+
+}
+
+p{
+  /*-webkit-column-count: 4;*/
+  /*-webkit-column-width: 130px;*/
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  columns:2;
+  
+  
+  
+  -webkit-column-gap: 20px;
+  -moz-column-gap: 20px;
+  column-gap:20px;
+}

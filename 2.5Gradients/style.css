@@ -1,0 +1,17 @@
+.box{
+margin:auto;
+width:400px;
+height:500px;
+background:black;
+
+
+/*linear-gradient*/
+background:-webkit-gradient(linear,left top,left bottom,from(black),color-stop(red,0.5),to(green));
+background:-webkit-linear-gradient(top, black, red, green);
+background:   -moz-linear-gradient(top, black, red, green);
+background:     -o-linear-gradient(top, black, red, green);
+background:        linear-gradient(top, black, red, green);
+
+
+color:white;
+}

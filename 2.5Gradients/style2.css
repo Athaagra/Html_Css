@@ -1,0 +1,18 @@
+body{
+background: #666;
+}
+.box{
+margin:auto;
+width:400px;
+height:500px;
+background:black;
+
+
+/*linear-gradient*/
+
+background:-webkit-linear-gradient(left, red 50%,#e70303 50%, orange 51%, #12c512 51%);
+
+
+
+color:white;
+}
